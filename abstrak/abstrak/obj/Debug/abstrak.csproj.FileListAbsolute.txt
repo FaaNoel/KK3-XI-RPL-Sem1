@@ -1,0 +1,13 @@
+D:\Coding\abstrak\abstrak\bin\Debug\abstrak.exe.config
+D:\Coding\abstrak\abstrak\bin\Debug\abstrak.exe
+D:\Coding\abstrak\abstrak\bin\Debug\abstrak.pdb
+D:\Coding\abstrak\abstrak\obj\Debug\abstrak.csprojAssemblyReference.cache
+D:\Coding\abstrak\abstrak\obj\Debug\abstrak.csproj.CoreCompileInputs.cache
+D:\Coding\abstrak\abstrak\obj\Debug\abstrak.exe
+D:\Coding\abstrak\abstrak\obj\Debug\abstrak.pdb
+C:\Users\Elfando Pratama\source\repos\abstrak\abstrak\bin\Debug\abstrak.exe.config
+C:\Users\Elfando Pratama\source\repos\abstrak\abstrak\bin\Debug\abstrak.exe
+C:\Users\Elfando Pratama\source\repos\abstrak\abstrak\bin\Debug\abstrak.pdb
+C:\Users\Elfando Pratama\source\repos\abstrak\abstrak\obj\Debug\abstrak.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\abstrak\abstrak\obj\Debug\abstrak.exe
+C:\Users\Elfando Pratama\source\repos\abstrak\abstrak\obj\Debug\abstrak.pdb

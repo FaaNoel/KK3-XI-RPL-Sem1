@@ -1,0 +1,8 @@
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\bin\Debug\netstandard2.0\Conversiwaktu.deps.json
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\bin\Debug\netstandard2.0\Conversiwaktu.dll
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\bin\Debug\netstandard2.0\Conversiwaktu.pdb
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\obj\Debug\netstandard2.0\Conversiwaktu.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\obj\Debug\netstandard2.0\Conversiwaktu.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\obj\Debug\netstandard2.0\Conversiwaktu.dll
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\obj\Debug\netstandard2.0\Conversiwaktu.pdb
+C:\Users\Elfando Pratama\source\repos\ConversiUang\Conversiwaktu\obj\Debug\netstandard2.0\Conversiwaktu.csprojAssemblyReference.cache

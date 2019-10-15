@@ -1,0 +1,7 @@
+D:\Coding\abstrak2\abstrak2\bin\Debug\abstrak2.exe.config
+D:\Coding\abstrak2\abstrak2\bin\Debug\abstrak2.exe
+D:\Coding\abstrak2\abstrak2\bin\Debug\abstrak2.pdb
+D:\Coding\abstrak2\abstrak2\obj\Debug\abstrak2.csprojAssemblyReference.cache
+D:\Coding\abstrak2\abstrak2\obj\Debug\abstrak2.csproj.CoreCompileInputs.cache
+D:\Coding\abstrak2\abstrak2\obj\Debug\abstrak2.exe
+D:\Coding\abstrak2\abstrak2\obj\Debug\abstrak2.pdb

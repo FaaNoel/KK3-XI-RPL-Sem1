@@ -1,0 +1,7 @@
+D:\Coding\Bangun Ruang\Bangun Ruang\bin\Debug\Bangun Ruang.exe.config
+D:\Coding\Bangun Ruang\Bangun Ruang\bin\Debug\Bangun Ruang.exe
+D:\Coding\Bangun Ruang\Bangun Ruang\bin\Debug\Bangun Ruang.pdb
+D:\Coding\Bangun Ruang\Bangun Ruang\obj\Debug\Bangun Ruang.csprojAssemblyReference.cache
+D:\Coding\Bangun Ruang\Bangun Ruang\obj\Debug\Bangun Ruang.csproj.CoreCompileInputs.cache
+D:\Coding\Bangun Ruang\Bangun Ruang\obj\Debug\Bangun Ruang.exe
+D:\Coding\Bangun Ruang\Bangun Ruang\obj\Debug\Bangun Ruang.pdb

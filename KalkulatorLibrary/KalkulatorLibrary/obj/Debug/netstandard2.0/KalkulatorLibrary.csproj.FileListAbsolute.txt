@@ -1,0 +1,8 @@
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\obj\Debug\netstandard2.0\KalkulatorLibrary.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\obj\Debug\netstandard2.0\KalkulatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\obj\Debug\netstandard2.0\KalkulatorLibrary.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\bin\Debug\netstandard2.0\KalkulatorLibrary.deps.json
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\bin\Debug\netstandard2.0\KalkulatorLibrary.dll
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\bin\Debug\netstandard2.0\KalkulatorLibrary.pdb
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\obj\Debug\netstandard2.0\KalkulatorLibrary.dll
+C:\Users\Elfando Pratama\source\repos\KalkulatorLibrary\KalkulatorLibrary\obj\Debug\netstandard2.0\KalkulatorLibrary.pdb

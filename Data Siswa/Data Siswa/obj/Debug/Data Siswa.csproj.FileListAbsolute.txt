@@ -1,0 +1,7 @@
+D:\Coding\Data Siswa\Data Siswa\bin\Debug\Data Siswa.exe.config
+D:\Coding\Data Siswa\Data Siswa\bin\Debug\Data Siswa.exe
+D:\Coding\Data Siswa\Data Siswa\bin\Debug\Data Siswa.pdb
+D:\Coding\Data Siswa\Data Siswa\obj\Debug\Data Siswa.csprojAssemblyReference.cache
+D:\Coding\Data Siswa\Data Siswa\obj\Debug\Data Siswa.csproj.CoreCompileInputs.cache
+D:\Coding\Data Siswa\Data Siswa\obj\Debug\Data Siswa.exe
+D:\Coding\Data Siswa\Data Siswa\obj\Debug\Data Siswa.pdb

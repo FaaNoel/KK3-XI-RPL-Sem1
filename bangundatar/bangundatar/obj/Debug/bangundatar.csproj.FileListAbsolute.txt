@@ -1,0 +1,7 @@
+D:\Coding\bangundatar\bangundatar\bin\Debug\bangundatar.exe.config
+D:\Coding\bangundatar\bangundatar\bin\Debug\bangundatar.exe
+D:\Coding\bangundatar\bangundatar\bin\Debug\bangundatar.pdb
+D:\Coding\bangundatar\bangundatar\obj\Debug\bangundatar.csprojAssemblyReference.cache
+D:\Coding\bangundatar\bangundatar\obj\Debug\bangundatar.csproj.CoreCompileInputs.cache
+D:\Coding\bangundatar\bangundatar\obj\Debug\bangundatar.exe
+D:\Coding\bangundatar\bangundatar\obj\Debug\bangundatar.pdb

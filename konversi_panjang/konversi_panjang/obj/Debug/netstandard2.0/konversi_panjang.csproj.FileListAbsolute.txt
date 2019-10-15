@@ -1,0 +1,8 @@
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\obj\Debug\netstandard2.0\konversi_panjang.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\obj\Debug\netstandard2.0\konversi_panjang.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\obj\Debug\netstandard2.0\konversi_panjang.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\bin\Debug\netstandard2.0\konversi_panjang.deps.json
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\bin\Debug\netstandard2.0\konversi_panjang.dll
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\bin\Debug\netstandard2.0\konversi_panjang.pdb
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\obj\Debug\netstandard2.0\konversi_panjang.dll
+C:\Users\Elfando Pratama\source\repos\konversi_panjang\konversi_panjang\obj\Debug\netstandard2.0\konversi_panjang.pdb

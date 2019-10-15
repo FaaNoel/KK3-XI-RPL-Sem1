@@ -1,0 +1,14 @@
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\TestBuildLibrary.exe
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\TestBuildLibrary.deps.json
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\TestBuildLibrary.runtimeconfig.json
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\TestBuildLibrary.runtimeconfig.dev.json
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\TestBuildLibrary.dll
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\TestBuildLibrary.pdb
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\KalkulatorLibrary.dll
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\bin\Debug\netcoreapp3.0\KalkulatorLibrary.pdb
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\obj\Debug\netcoreapp3.0\TestBuildLibrary.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\obj\Debug\netcoreapp3.0\TestBuildLibrary.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\obj\Debug\netcoreapp3.0\TestBuildLibrary.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\obj\Debug\netcoreapp3.0\TestBuildLibrary.csproj.CopyComplete
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\obj\Debug\netcoreapp3.0\TestBuildLibrary.dll
+C:\Users\Elfando Pratama\source\repos\TestBuildLibrary\TestBuildLibrary\obj\Debug\netcoreapp3.0\TestBuildLibrary.pdb

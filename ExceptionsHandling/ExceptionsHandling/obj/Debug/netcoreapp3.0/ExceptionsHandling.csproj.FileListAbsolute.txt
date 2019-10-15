@@ -1,0 +1,11 @@
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.0\ExceptionsHandling.exe
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.0\ExceptionsHandling.deps.json
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.0\ExceptionsHandling.runtimeconfig.json
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.0\ExceptionsHandling.runtimeconfig.dev.json
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.0\ExceptionsHandling.dll
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\bin\Debug\netcoreapp3.0\ExceptionsHandling.pdb
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.0\ExceptionsHandling.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.0\ExceptionsHandling.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.0\ExceptionsHandling.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.0\ExceptionsHandling.dll
+C:\Users\Elfando Pratama\source\repos\ExceptionsHandling\ExceptionsHandling\obj\Debug\netcoreapp3.0\ExceptionsHandling.pdb

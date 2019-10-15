@@ -1,0 +1,10 @@
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\bin\Debug\netcoreapp3.0\ArrayListProject.exe
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\bin\Debug\netcoreapp3.0\ArrayListProject.deps.json
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\bin\Debug\netcoreapp3.0\ArrayListProject.runtimeconfig.json
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\bin\Debug\netcoreapp3.0\ArrayListProject.runtimeconfig.dev.json
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\bin\Debug\netcoreapp3.0\ArrayListProject.dll
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\bin\Debug\netcoreapp3.0\ArrayListProject.pdb
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\obj\Debug\netcoreapp3.0\ArrayListProject.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\obj\Debug\netcoreapp3.0\ArrayListProject.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\obj\Debug\netcoreapp3.0\ArrayListProject.dll
+C:\Users\Elfando Pratama\source\repos\ArrayListProject\ArrayListProject\obj\Debug\netcoreapp3.0\ArrayListProject.pdb

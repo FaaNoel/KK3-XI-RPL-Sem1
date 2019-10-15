@@ -1,0 +1,13 @@
+D:\Coding\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Coding\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\Coding\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\Coding\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+D:\Coding\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\Coding\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\Coding\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
+C:\Users\Elfando Pratama\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+C:\Users\Elfando Pratama\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+C:\Users\Elfando Pratama\source\repos\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+C:\Users\Elfando Pratama\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+C:\Users\Elfando Pratama\source\repos\kalkulator\kalkulator\obj\Debug\kalkulator.pdb

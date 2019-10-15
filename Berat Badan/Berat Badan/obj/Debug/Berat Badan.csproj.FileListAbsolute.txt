@@ -1,0 +1,7 @@
+D:\Coding\Berat Badan\Berat Badan\obj\Debug\Berat Badan.csprojAssemblyReference.cache
+D:\Coding\Berat Badan\Berat Badan\obj\Debug\Berat Badan.csproj.CoreCompileInputs.cache
+D:\Coding\Berat Badan\Berat Badan\bin\Debug\Berat Badan.exe.config
+D:\Coding\Berat Badan\Berat Badan\bin\Debug\Berat Badan.exe
+D:\Coding\Berat Badan\Berat Badan\bin\Debug\Berat Badan.pdb
+D:\Coding\Berat Badan\Berat Badan\obj\Debug\Berat Badan.exe
+D:\Coding\Berat Badan\Berat Badan\obj\Debug\Berat Badan.pdb

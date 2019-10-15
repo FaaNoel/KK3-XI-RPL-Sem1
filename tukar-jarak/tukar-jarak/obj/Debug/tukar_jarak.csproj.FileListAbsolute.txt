@@ -1,0 +1,13 @@
+D:\Coding\tukar-jarak\tukar-jarak\bin\Debug\tukar-jarak.exe.config
+D:\Coding\tukar-jarak\tukar-jarak\bin\Debug\tukar-jarak.exe
+D:\Coding\tukar-jarak\tukar-jarak\bin\Debug\tukar-jarak.pdb
+D:\Coding\tukar-jarak\tukar-jarak\obj\Debug\tukar_jarak.csprojAssemblyReference.cache
+D:\Coding\tukar-jarak\tukar-jarak\obj\Debug\tukar_jarak.csproj.CoreCompileInputs.cache
+D:\Coding\tukar-jarak\tukar-jarak\obj\Debug\tukar-jarak.exe
+D:\Coding\tukar-jarak\tukar-jarak\obj\Debug\tukar-jarak.pdb
+C:\Users\Elfando Pratama\source\repos\tukar-jarak\tukar-jarak\bin\Debug\tukar-jarak.exe.config
+C:\Users\Elfando Pratama\source\repos\tukar-jarak\tukar-jarak\bin\Debug\tukar-jarak.exe
+C:\Users\Elfando Pratama\source\repos\tukar-jarak\tukar-jarak\bin\Debug\tukar-jarak.pdb
+C:\Users\Elfando Pratama\source\repos\tukar-jarak\tukar-jarak\obj\Debug\tukar_jarak.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\tukar-jarak\tukar-jarak\obj\Debug\tukar-jarak.exe
+C:\Users\Elfando Pratama\source\repos\tukar-jarak\tukar-jarak\obj\Debug\tukar-jarak.pdb

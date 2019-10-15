@@ -1,0 +1,7 @@
+D:\Coding\Kocheng\Kocheng\obj\Debug\Kocheng.csprojAssemblyReference.cache
+D:\Coding\Kocheng\Kocheng\obj\Debug\Kocheng.csproj.CoreCompileInputs.cache
+D:\Coding\Kocheng\Kocheng\bin\Debug\Kocheng.exe.config
+D:\Coding\Kocheng\Kocheng\bin\Debug\Kocheng.exe
+D:\Coding\Kocheng\Kocheng\bin\Debug\Kocheng.pdb
+D:\Coding\Kocheng\Kocheng\obj\Debug\Kocheng.exe
+D:\Coding\Kocheng\Kocheng\obj\Debug\Kocheng.pdb

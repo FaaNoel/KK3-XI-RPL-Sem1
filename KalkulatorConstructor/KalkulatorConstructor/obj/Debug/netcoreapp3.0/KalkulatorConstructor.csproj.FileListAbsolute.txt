@@ -1,0 +1,11 @@
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\bin\Debug\netcoreapp3.0\KalkulatorConstructor.exe
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\bin\Debug\netcoreapp3.0\KalkulatorConstructor.deps.json
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\bin\Debug\netcoreapp3.0\KalkulatorConstructor.runtimeconfig.json
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\bin\Debug\netcoreapp3.0\KalkulatorConstructor.runtimeconfig.dev.json
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\bin\Debug\netcoreapp3.0\KalkulatorConstructor.dll
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\bin\Debug\netcoreapp3.0\KalkulatorConstructor.pdb
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\obj\Debug\netcoreapp3.0\KalkulatorConstructor.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\obj\Debug\netcoreapp3.0\KalkulatorConstructor.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\obj\Debug\netcoreapp3.0\KalkulatorConstructor.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\obj\Debug\netcoreapp3.0\KalkulatorConstructor.dll
+C:\Users\Elfando Pratama\source\repos\KalkulatorConstructor\KalkulatorConstructor\obj\Debug\netcoreapp3.0\KalkulatorConstructor.pdb

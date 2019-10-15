@@ -1,0 +1,7 @@
+D:\Coding\hewan\hewan\bin\Debug\hewan.exe.config
+D:\Coding\hewan\hewan\bin\Debug\hewan.exe
+D:\Coding\hewan\hewan\bin\Debug\hewan.pdb
+D:\Coding\hewan\hewan\obj\Debug\hewan.csprojAssemblyReference.cache
+D:\Coding\hewan\hewan\obj\Debug\hewan.csproj.CoreCompileInputs.cache
+D:\Coding\hewan\hewan\obj\Debug\hewan.exe
+D:\Coding\hewan\hewan\obj\Debug\hewan.pdb

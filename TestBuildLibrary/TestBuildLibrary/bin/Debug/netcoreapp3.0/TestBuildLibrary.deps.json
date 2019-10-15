@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TestBuildLibrary/1.0.0": {
+        "dependencies": {
+          "KalkulatorLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "TestBuildLibrary.dll": {}
+        }
+      },
+      "KalkulatorLibrary/1.0.0.0": {
+        "runtime": {
+          "KalkulatorLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestBuildLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KalkulatorLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

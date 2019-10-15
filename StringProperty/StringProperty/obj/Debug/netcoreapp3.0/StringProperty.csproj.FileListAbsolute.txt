@@ -1,0 +1,11 @@
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\bin\Debug\netcoreapp3.0\StringProperty.exe
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\bin\Debug\netcoreapp3.0\StringProperty.deps.json
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\bin\Debug\netcoreapp3.0\StringProperty.runtimeconfig.json
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\bin\Debug\netcoreapp3.0\StringProperty.runtimeconfig.dev.json
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\bin\Debug\netcoreapp3.0\StringProperty.dll
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\bin\Debug\netcoreapp3.0\StringProperty.pdb
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\obj\Debug\netcoreapp3.0\StringProperty.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\obj\Debug\netcoreapp3.0\StringProperty.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\obj\Debug\netcoreapp3.0\StringProperty.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\obj\Debug\netcoreapp3.0\StringProperty.dll
+C:\Users\Elfando Pratama\source\repos\StringProperty\StringProperty\obj\Debug\netcoreapp3.0\StringProperty.pdb

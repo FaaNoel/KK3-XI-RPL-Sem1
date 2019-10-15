@@ -1,0 +1,11 @@
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\obj\Debug\netcoreapp3.0\Suhu.csprojAssemblyReference.cache
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\obj\Debug\netcoreapp3.0\Suhu.AssemblyInfoInputs.cache
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\obj\Debug\netcoreapp3.0\Suhu.AssemblyInfo.cs
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\bin\Debug\netcoreapp3.0\Suhu.exe
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\bin\Debug\netcoreapp3.0\Suhu.deps.json
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\bin\Debug\netcoreapp3.0\Suhu.runtimeconfig.json
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\bin\Debug\netcoreapp3.0\Suhu.runtimeconfig.dev.json
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\bin\Debug\netcoreapp3.0\Suhu.dll
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\bin\Debug\netcoreapp3.0\Suhu.pdb
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\obj\Debug\netcoreapp3.0\Suhu.dll
+C:\Users\Elfando Pratama\source\repos\Suhu\Suhu\obj\Debug\netcoreapp3.0\Suhu.pdb
